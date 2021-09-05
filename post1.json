@@ -1,0 +1,26 @@
+{
+    "image": ".\\assets\\image1.jpg",
+    "title": "POST Title",
+    "data": [
+        {
+            "type": "text",
+            "value": "rem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out pri"
+        },
+        {
+            "type": "image",
+            "value": ".\\assets\\image1.jpg"
+        },
+        {
+            "type": "text",
+            "value": "rem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out pri"
+        },
+        {
+            "type": "image",
+            "value": ".\\assets\\image1.jpg"
+        },
+        {
+            "type": "text",
+            "value": "rem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out pri"
+        }
+    ]
+}
