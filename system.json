@@ -1,9 +1,10 @@
-[
+{
+"posts":[
     {
         "title": "POST Title",
         "image": "https://i.ibb.co/9nnf0pP/image1.jpg",
         "type": "News",
-        "link": "/post?post=https://raw.githubusercontent.com/TheRobotDragon/website/main/post1.json",
+        "link": "/post?post=post1",
         "post": "github testAt vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
     },
     {
@@ -90,4 +91,7 @@
         "link": "./api/post1.json",
         "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
     }
-]
+],
+"previous":null,
+"Next": "system.json"
+}
