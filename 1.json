@@ -1,97 +1,14 @@
 {
     "posts": [
         {
-            "title": "POST Title",
+            "title": "This is a fresh start",
             "image": "https://i.ibb.co/9nnf0pP/image1.jpg",
             "type": "News",
             "link": "/post?post=post1",
-            "post": "github testAt vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "Review",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/86jkdq6148k71.jpg?width=197&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=d8a8632a3049ad29e5db7eca16b59cd0adab1e95\"&gt;"
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
-        },
-        {
-            "title": "POST Title",
-            "image": ".\\assets\\image1.jpg",
-            "type": "News",
-            "link": "./api/post1.json",
-            "post": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt "
+            "post": "This is a restart of our blog, soon you will see new tech posts, reviews and news."
         }
+     
     ],
     "previous": "",
-    "next": "2"
+    "next": ""
 }
