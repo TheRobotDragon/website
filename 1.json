@@ -1,5 +1,12 @@
 {
     "posts": [
+         {
+            "title": "Why I created a blog?",
+            "image": "https://i.ibb.co/4dnZwFT/Screen-Shot-2021-09-30-at-8-27-41-PM.png",
+            "type": "News",
+            "link": "/post?post=whyblog",
+            "post": "So you might wonder \"Why I (re)started this blog this blog in 2021?\", check this post to know more."
+        },
         {
             "title": "This is a fresh start",
             "image": "https://i.ibb.co/XW9vpds/Screen-Shot-2021-09-28-at-10-05-18-PM.png",
