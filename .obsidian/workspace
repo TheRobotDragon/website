@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "8fc1ee943c67b4c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "11463e92a844cb63",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "posts/openemu.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffbd789141b26d55",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d8a477db60974c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fbbdce92cbee8c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f0bb38172235ce7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6689060ca0344c60",
+    "type": "split",
+    "children": [
+      {
+        "id": "36f9786750766773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5af9de3e0a385e86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/openemu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "11463e92a844cb63",
+  "lastOpenFiles": [
+    "posts/openemu.md",
+    "assets/images/tux.png.md"
+  ]
+}
