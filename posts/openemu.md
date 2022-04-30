@@ -1,6 +1,6 @@
 ![drawing](https://i.ibb.co/nsCnXFt/Screen-Shot-2021-10-02-at-10-33-07-PM.png)
 
-##Retro games on a MacBook Air M1
+## Retro games on a MacBook Air M1
 
 If you are like me that love retro games and have a Mac, even the new M1 apple silicon Macs, you must check OpenEmu. Is an app for Mac that can emulate all the retro consoles from the old Atari to Sony Playstation, and also play the handheld consoles like GameBoy and PSP.
 
