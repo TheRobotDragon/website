@@ -1,4 +1,5 @@
 ![drawing](https://i.ibb.co/nsCnXFt/Screen-Shot-2021-10-02-at-10-33-07-PM.png)
+
 ##Retro games on a MacBook Air M1
 
 If you are like me that love retro games and have a Mac, even the new M1 apple silicon Macs, you must check OpenEmu. Is an app for Mac that can emulate all the retro consoles from the old Atari to Sony Playstation, and also play the handheld consoles like GameBoy and PSP.
@@ -11,7 +12,7 @@ OpenEmu is so easy to use, just download the app from http://openemu.org, and ru
 
 You can hide consoles you don’t want to see just be careful to show it again when you want. I accidentally hid Nintendo 64 and when I tried to add rooms for that console it started shouting errors saying that console was not compatible, which I know it was not true. Going on edit and setting N64 to show solve the issue.
 
-![openemu controllers](https://i.ibb.co/YQ7sj40/Screen-Shot-2021-10-02-at-7-15-46-PM.png)
+![drawing](https://i.ibb.co/YQ7sj40/Screen-Shot-2021-10-02-at-7-15-46-PM.png)
 
 Setting up controllers are very simple just bind each button on you controller to each button on the console controller. It does show a image of the original controller so is very easy to setup. It is a bit of hard working as you need to do the bindings for each console, and sometimes you mus think a bit to decide where to put each button. For example I’m using a Xbox One Bluetooth Controller so to bind to a Nintendo 64 is a bit weird, as most buttons have a weird position on the old console.
 
